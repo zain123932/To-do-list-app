@@ -85,12 +85,6 @@ todo-app/
 
 ---
 
-## 📸 Screenshots
-
-> Add your app screenshots here after taking them!
-
----
-
 ## 👨‍💻 Author
 
 **Zain**
